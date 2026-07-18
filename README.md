@@ -1,7 +1,7 @@
 # HIL-Pong: A Hardware-in-the-Loop Analog Feedback Control System
 
 **Author:** Shravan Mathapati
-**Platform:** ESP32 + Analog Circuitry + Python (Pygame)
+**Platform:** ESP32 + Analog Circuitry + Python (tkinter)
 **Domain:** Embedded Systems, Analog Electronics, Control Systems, Hardware-in-the-Loop Simulation
 
 ---
