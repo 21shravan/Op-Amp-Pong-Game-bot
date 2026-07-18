@@ -167,7 +167,7 @@ This effectively implements a bang-bang tracking controller.
 > Insert schematic here
 
 ```md
-![Circuit Schematic](images/schematic.png)
+![Circuit Schematic](analog_controller.bmp)
 ```
 
 ---
