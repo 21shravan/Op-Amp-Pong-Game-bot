@@ -167,7 +167,7 @@ This effectively implements a bang-bang tracking controller.
 > Insert schematic here
 
 ```md
-![Circuit Schematic](analog_controller.bmp)
+![Circuit Schematic](analog_controller.png)
 ```
 
 ---
@@ -177,7 +177,7 @@ This effectively implements a bang-bang tracking controller.
 > Insert breadboard photograph here
 
 ```md
-![Breadboard Setup](images/breadboard.jpg)
+![Breadboard Setup](breadboard.jpg)
 ```
 
 ---
@@ -328,7 +328,7 @@ A time-domain plot was generated from serial monitor data.
 > Insert experimental plot here
 
 ```md
-![Control Data Plot](images/control_plot.png)
+![Control Data Plot](control_plot.png)
 ```
 
 
