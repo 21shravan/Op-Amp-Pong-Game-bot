@@ -164,20 +164,21 @@ This effectively implements a bang-bang tracking controller.
 
 ## Circuit Schematic
 
-> Insert schematic here
-
 ```md
-![Circuit Schematic](analog_controller.png)
+<img width="1861" height="931" alt="analog_controller" src="https://github.com/user-attachments/assets/9a9dfd69-cca7-4150-96ad-ed7feed37e3d" />
+
 ```
 
 ---
 
 ## Breadboard Implementation
 
-> Insert breadboard photograph here
 
 ```md
-![Breadboard Setup](breadboard.jpg)
+
+<img width="1200" height="1200" alt="ESP32" src="https://github.com/user-attachments/assets/9d2ab423-77eb-44f2-9a40-70f6292e4177" />
+
+
 ```
 
 ---
@@ -325,11 +326,11 @@ The controller was able to continuously track the ball trajectory and successful
 
 A time-domain plot was generated from serial monitor data.
 
-> Insert experimental plot here
 
 ```md
-![Control Data Plot](control_plot.png)
+
 ```
+<img width="1000" height="600" alt="serial_log_20260718_202625 csv" src="https://github.com/user-attachments/assets/fd6db296-3081-45d3-8a5a-b522839fdda5" />
 
 
 ---
