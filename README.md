@@ -165,7 +165,7 @@ This effectively implements a bang-bang tracking controller.
 ## Circuit Schematic
 
 ```md
-<img width="1861" height="931" alt="analog_controller" src="https://github.com/user-attachments/assets/9a9dfd69-cca7-4150-96ad-ed7feed37e3d" />
+<analog_controller.png>
 
 ```
 
