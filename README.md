@@ -165,7 +165,7 @@ This effectively implements a bang-bang tracking controller.
 ## Circuit Schematic
 
 ```md
-<analog_controller.png>
+(analog_controller.png)
 
 ```
 
