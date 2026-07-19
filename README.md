@@ -65,8 +65,6 @@ The complete system consists of three major subsystems:
 
 ## System Block Diagram
 
-> Insert system block diagram here
-
 ![System Block Diagram](blockdiagram.png)
 
 ### Control Loop
@@ -166,14 +164,7 @@ This effectively implements a bang-bang tracking controller.
 ---
 
 ## Breadboard Implementation
-
-
-```md
-
-<img width="1200" height="1200" alt="ESP32" src="https://github.com/user-attachments/assets/9d2ab423-77eb-44f2-9a40-70f6292e4177" />
-
-
-```
+![breadboardimplementation](ESP32.png)
 
 ---
 
