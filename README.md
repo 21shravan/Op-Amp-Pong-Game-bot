@@ -20,11 +20,7 @@ The project demonstrates real-time hardware-software co-design, analog signal pr
 
 📹 **Project Demonstration Video**
 
-
-```md
-![Demo](media/demo.gif)
-```
-
+![Demo](demo.mp4)
 ---
 
 ## Table of Contents
