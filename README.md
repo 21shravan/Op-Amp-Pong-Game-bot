@@ -20,7 +20,6 @@ The project demonstrates real-time hardware-software co-design, analog signal pr
 
 📹 **Project Demonstration Video**
 
-> Insert demo video/GIF here
 
 ```md
 ![Demo](media/demo.gif)
@@ -68,9 +67,7 @@ The complete system consists of three major subsystems:
 
 > Insert system block diagram here
 
-```md
-![System Block Diagram](images/system_block_diagram.png)
-```
+![System Block Diagram](blockdiagram.png)
 
 ### Control Loop
 
